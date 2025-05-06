@@ -22,6 +22,9 @@ Founder & CEO of [GTC IT](https://www.gtchain.io) | System Architect | Tax & Aud
 - 🌐 Website: [www.gtchain.io](https://www.gtchain.io)
 
 ---
+##  Languages: Python, JavaScript, TypeScript
+
+##  Tools: Node.js, Docker, n8n, PostgreSQL, OpenAI, Azure
 
 ## 🧠 Areas of Expertise
 
